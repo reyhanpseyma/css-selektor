@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(0,255,0);
+    color: #0000ff;
+}
+
+.dotted-bold-divider {
+    border: none; 
+    border-top: 5px dotted #FDE74C;
+    margin: 20px 0; /* Üst ve alt boşluk ekleyerek içerikten ayrı bir şekilde görüntülenmesini sağlar */
+  }
+
+  #önemli {
+    background-color: #1B998B;
+    color:#210e24;
+  }
+  
+  .ders {
+    background-color: #bdff07;
+    color: rgb(10, 10, 10);
+  }
+  .ders1 {
+    background-color: #bdff07;
+    color: rgb(0, 0, 0);
+  }
+  .ders2 {
+    background-color: #bdff07;
+    color: rgb(0, 0, 0);
+  }
+  .ders3 {
+    background-color: #bdff07;
+    color: rgb(0, 0, 0);
+  }
+  .ders4 {
+    background-color: #bdff07;
+    color: rgb(0, 0, 0);
+  }
+
+  
